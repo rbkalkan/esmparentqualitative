@@ -1,0 +1,83 @@
+"","source","target","level_source","level_target","value"
+"1","Context","Tense climate at home",1,2,1
+"2","Context","Good weather",1,2,1
+"3","Context","Medical procedure/visit for child(ren)",1,2,1
+"4","Context","Time in nature/outside [SETTING]",1,2,1
+"5","Context","Teleworking",1,2,1
+"6","Context","Holiday (time off work) [SETTING]",1,2,1
+"7","Context","Transition time for child(ren)",1,2,1
+"8","Context","Transition time for self",1,2,1
+"9","Context","Household rhythm shifting",1,2,1
+"10","Context","Child(ren) sick",1,2,1
+"11","Context","Self sick",1,2,1
+"12","Context","Partner sick",1,2,1
+"13","Context","Stressed",1,2,1
+"14","Context","Stress (from work/not immediate family)",1,2,1
+"15","Context","Accumulation",1,2,1
+"16","Context","Mental load",1,2,1
+"17","Activity/event","Social activity/event (without children)",1,2,1
+"18","Activity/event","Social activity/event (with children)",1,2,1
+"19","Activity/event","Celebration",1,2,1
+"20","Activity/event","Visitors at the house",1,2,1
+"21","Activity/event","Physical activity",1,2,1
+"22","Activity/event","Social activity/event (unspecified re: children)",1,2,1
+"23","Movements (day)","Some children gone (whole day)",1,2,1
+"24","Movements (day)","Partner gone",1,2,1
+"25","Movements (day)","Traveling/on vacation with child(ren) [SETTING]",1,2,1
+"26","Movements (day)","All children gone",1,2,1
+"27","Movements (day)","Child(ren) taking part in activity without parent (camp etc)",1,2,1
+"28","Resources","Help from family/friends",1,2,1
+"29","Childcare & household","Childcare/household tasks mainly managed by others (not partner - extended family or babysitter)",1,2,1
+"30","Childcare & household","Childcare/household tasks mainly managed by partner",1,2,1
+"31","Childcare & household","Support from partner (explicit mention)",1,2,1
+"32","Childcare & household","Childcare/household tasks performed mainly by self",1,2,1
+"33","Childcare & household","Household tasks/chores/cleaning",1,2,1
+"34","Childcare & household","Transporting child(ren) from one place to another",1,2,1
+"35","Feelings","Stressed",1,2,1
+"36","Feelings","Stress (from work/not immediate family)",1,2,1
+"37","Feelings","Accumulation",1,2,1
+"38","Feelings","Regretful",1,2,1
+"39","Feelings","Angry with child(ren)",1,2,1
+"40","Feelings","Frustrated (implicit)",1,2,1
+"41","Feelings","Regretful (implied)",1,2,1
+"42","Feelings","Apprehensive/worrying about the future",1,2,1
+"43","Feelings","Worrying about child(ren) - implicit",1,2,1
+"44","Feelings","Overwhelmed (implicit)",1,2,1
+"45","Feelings","Lacking patience",1,2,1
+"46","Feelings","Feeling need for rest/resourcing",1,2,1
+"47","Evaluations","Good day (implicit)",1,2,1
+"48","Evaluations","Good day (explicit)",1,2,1
+"49","Evaluations","Great day (explicit)",1,2,1
+"50","Evaluations","Difficult day (implicit)",1,2,1
+"51","Evaluations","Difficult day (explicit)",1,2,1
+"52","Evaluations","Difficult moments (explicit)",1,2,1
+"53","Evaluations","Calm day (implicit)",1,2,1
+"54","Evaluations","Busy day (implicit)",1,2,1
+"55","Tiredness/rest","Feeling need for rest/resourcing",1,2,1
+"56","Tiredness/rest","Lack of sleep/bad night's rest",1,2,1
+"57","Tiredness/rest","Children waking parent up at night",1,2,1
+"58","Tiredness/rest","Children waking parent up at night (implied)",1,2,1
+"59","Tiredness/rest","Child(ren) rested/slept",1,2,1
+"60","Tiredness/rest","Resting/taking time for oneself",1,2,1
+"61","Tiredness/rest","Good night's rest/sleep",1,2,1
+"62","Tiredness/rest","Child(ren) tired",1,2,1
+"63","Tiredness/rest","Tired (self)",1,2,1
+"64","Time","Automatic pilot/routine",1,2,1
+"65","Time","Little time with child(ren)",1,2,1
+"66","Time","More time with kids than usual",1,2,1
+"67","Time","Difficulty managing work schedule with other household schedules (watching kids/school; partner's schedule)",1,2,1
+"68","Time","Little time with child(ren) (implicit)",1,2,1
+"69","Time","Little time with partner",1,2,1
+"70","Parenting & parent-child","Child(ren) crying/complaining",1,2,1
+"71","Parenting & parent-child","Child misbehaving (betises/etc)",1,2,1
+"72","Parenting & parent-child","Child agitated/overwhelmed",1,2,1
+"73","Parenting & parent-child","Child(ren) behaving well/in good spirits",1,2,1
+"74","Parenting & parent-child","Children played with friends/with other children",1,2,1
+"75","Parenting & parent-child","Conflict with child(ren)",1,2,1
+"76","Parenting & parent-child","Played with child(ren)/quality time with children",1,2,1
+"77","Parenting & parent-child","Difficulty managing children",1,2,1
+"78","Parenting & parent-child","Difficulty managing children (implied)",1,2,1
+"79","Parenting & parent-child","Child(ren) having a difficult time emotionally",1,2,1
+"80","Partner-specific","Tension with partner",1,2,1
+"81","Partner-specific","Quality time with partner",1,2,1
+"82","Activity/event,Childcare & household","Mealtime",1,2,1
