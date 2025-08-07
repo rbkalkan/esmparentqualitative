@@ -69,7 +69,7 @@
 "68","Wanting to abandon parenting","Overwhelmed",2,1,1
 "69","At the end of one's patience/strength","Overwhelmed",2,1,1
 "70","Overwhelmed (implicit)","Overwhelmed",2,1,1
-"71","Overwhelmed","Overwhelmed",2,1,18
+"71","Overwhelmed","Overwhelmed",2,1,8
 "72","Feeling need for rest/resourcing","Overwhelmed",2,1,1
 "73","Hopelessness","Overwhelmed",2,1,1
 "74","Feeling like abandoned child(ren)","Overwhelmed",2,1,1
@@ -211,7 +211,7 @@
 "210","Energy (child)","Tiredness/rest",3,2,1
 "211","Emotion (negative)","Feelings",3,2,14
 "212","Emotion (positive)","Feelings",3,2,8
-"213","Overwhelmed","Feelings",3,2,18
+"213","Overwhelmed","Feelings",3,2,8
 "214","Future-oriented feelings (positive)","Feelings",3,2,3
 "215","Future-oriented feelings (worry; negative)","Feelings",3,2,4
 "216","Anxiety","Feelings",3,2,2
