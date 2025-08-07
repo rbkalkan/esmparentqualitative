@@ -1,249 +1,249 @@
-"","target","source","level_source","level_target","value"
-"1","Outing (errands) [SETTING]","Activity",2,1,1
-"2","Physical activity","Activity",2,1,1
-"3","Social activity/event (without children)","Activity",2,1,1
-"4","Social activity/event (with children)","Activity",2,1,1
-"5","Visitors at the house","Activity",2,1,1
-"6","Outing (social) [SETTING]","Activity",2,1,1
-"7","Social activity/event (unspecified re: children)","Activity",2,1,1
-"8","Celebration","Activity",2,1,1
-"9","Mealtime","Activity",2,1,1
-"10","Intrusive or painful memories","Context (negative, self)",2,1,1
-"11","Tense climate at home","Context (negative, interactional)",2,1,1
-"12","Conflict (unspecified)","Context (negative, interactional)",2,1,1
-"13","Conflict with separated partner","Context (negative, interactional)",2,1,1
-"14","Partner stressed/overwhelmed","Context (negative, interactional)",2,1,1
-"15","Bad news","Context (negative, outside)",2,1,1
-"16","Accident","Context (negative, outside)",2,1,1
-"17","Self gone (whole day)/no time with children","Movement of family member",2,1,1
-"18","Some children gone (whole day)","Movement of family member",2,1,1
-"19","All children gone","Movement of family member",2,1,1
-"20","Child(ren) taking part in activity without parent (camp etc)","Movement of family member",2,1,1
-"21","Traveling/on vacation with child(ren) [SETTING]","Movement of family member",2,1,1
-"22","Partner gone","Movement of family member",2,1,1
-"23","Little time with child(ren)","Time with children",2,1,1
-"24","More time with kids than usual","Time with children",2,1,1
-"25","Would like more time with child(ren)","Time with children",2,1,1
-"26","Little time with child(ren) (implicit)","Time with children",2,1,1
-"27","Would like more time with child(ren) (implicit)","Time with children",2,1,1
-"28","Difficulty managing work schedule with other household schedules (watching kids/school; partner's schedule)","Time with children",2,1,1
-"29","Little time with partner","Time with partner",2,1,1
-"30","Quality time with partner","Time with partner",2,1,1
-"31","Automatic pilot/routine","Time (general)",2,1,1
-"32","Exhausted","Tiredness (parent)",2,1,1
-"33","Feeling need for rest/resourcing","Tiredness (parent)",2,1,1
-"34","Not able to rest/do leisure activities","Tiredness (parent)",2,1,1
-"35","Tired (self)","Tiredness (parent)",2,1,1
-"36","Feeling need for rest/resourcing (implied)","Tiredness (parent)",2,1,1
-"37","Resting/taking time for oneself","Rest (parent)",2,1,1
-"38","Good night's rest/sleep","Rest (parent)",2,1,1
-"39","Child(ren) tired","Tiredness (child)",2,1,1
-"40","Wanting isolation/time to oneself","Need for rest (parent)",2,1,1
-"41","Lack of sleep/bad night's rest","Lack of sleep/rest (parent)",2,1,1
-"42","Children waking parent up at night","Lack of sleep/rest (parent)",2,1,1
-"43","Children waking parent up at night (implied)","Lack of sleep/rest (parent)",2,1,1
-"44","Child(ren) rested/slept","Rest (child)",2,1,1
-"45","Child(ren) had high energy","Energy (child)",2,1,1
-"46","Frustrated","Emotion (negative)",2,1,1
-"47","Guilt","Emotion (negative)",2,1,1
-"48","Emotional pain/hurt (not further specified)","Emotion (negative)",2,1,1
-"49","Angry with self","Emotion (negative)",2,1,1
-"50","Regretful","Emotion (negative)",2,1,1
-"51","Afraid","Emotion (negative)",2,1,1
-"52","Sad","Emotion (negative)",2,1,1
-"53","Frustrated (implicit)","Emotion (negative)",2,1,1
-"54","Regretful (implied)","Emotion (negative)",2,1,1
-"55","Angry with self (implied)","Emotion (negative)",2,1,1
-"56","Angry with child(ren) (implicit)","Emotion (negative)",2,1,1
-"57","Hopelessness","Emotion (negative)",2,1,1
-"58","Grief (implicit)","Emotion (negative)",2,1,1
-"59","Angry with child(ren)","Emotion (negative)",2,1,1
-"60","Self-compassion","Emotion (positive)",2,1,1
-"61","Peace of mind","Emotion (positive)",2,1,1
-"62","Joy","Emotion (positive)",2,1,1
-"63","Pride","Emotion (positive)",2,1,1
-"64","Hope","Emotion (positive)",2,1,1
-"65","Relief","Emotion (positive)",2,1,1
-"66","Joy (implied)","Emotion (positive)",2,1,1
-"67","Pride (implied)","Emotion (positive)",2,1,1
-"68","Wanting to abandon parenting","Overwhelmed",2,1,1
-"69","At the end of one's patience/strength","Overwhelmed",2,1,1
-"70","Overwhelmed (implicit)","Overwhelmed",2,1,1
+"","source","target","level_source","level_target","value"
+"1","Activity","Outing (errands) [SETTING]",2,1,1
+"2","Activity","Physical activity",2,1,1
+"3","Activity","Social activity/event (without children)",2,1,1
+"4","Activity","Social activity/event (with children)",2,1,1
+"5","Activity","Visitors at the house",2,1,1
+"6","Activity","Outing (social) [SETTING]",2,1,1
+"7","Activity","Social activity/event (unspecified re: children)",2,1,1
+"8","Activity","Celebration",2,1,1
+"9","Activity","Mealtime",2,1,1
+"10","Context (negative, self)","Intrusive or painful memories",2,1,1
+"11","Context (negative, interactional)","Tense climate at home",2,1,1
+"12","Context (negative, interactional)","Conflict (unspecified)",2,1,1
+"13","Context (negative, interactional)","Conflict with separated partner",2,1,1
+"14","Context (negative, interactional)","Partner stressed/overwhelmed",2,1,1
+"15","Context (negative, outside)","Bad news",2,1,1
+"16","Context (negative, outside)","Accident",2,1,1
+"17","Movement of family member","Self gone (whole day)/no time with children",2,1,1
+"18","Movement of family member","Some children gone (whole day)",2,1,1
+"19","Movement of family member","All children gone",2,1,1
+"20","Movement of family member","Child(ren) taking part in activity without parent (camp etc)",2,1,1
+"21","Movement of family member","Traveling/on vacation with child(ren) [SETTING]",2,1,1
+"22","Movement of family member","Partner gone",2,1,1
+"23","Time with children","Little time with child(ren)",2,1,1
+"24","Time with children","More time with kids than usual",2,1,1
+"25","Time with children","Would like more time with child(ren)",2,1,1
+"26","Time with children","Little time with child(ren) (implicit)",2,1,1
+"27","Time with children","Would like more time with child(ren) (implicit)",2,1,1
+"28","Time with children","Difficulty managing work schedule with other household schedules (watching kids/school; partner's schedule)",2,1,1
+"29","Time with partner","Little time with partner",2,1,1
+"30","Time with partner","Quality time with partner",2,1,1
+"31","Time (general)","Automatic pilot/routine",2,1,1
+"32","Tiredness (parent)","Exhausted",2,1,1
+"33","Tiredness (parent)","Feeling need for rest/resourcing",2,1,1
+"34","Tiredness (parent)","Not able to rest/do leisure activities",2,1,1
+"35","Tiredness (parent)","Tired (self)",2,1,1
+"36","Tiredness (parent)","Feeling need for rest/resourcing (implied)",2,1,1
+"37","Rest (parent)","Resting/taking time for oneself",2,1,1
+"38","Rest (parent)","Good night's rest/sleep",2,1,1
+"39","Tiredness (child)","Child(ren) tired",2,1,1
+"40","Need for rest (parent)","Wanting isolation/time to oneself",2,1,1
+"41","Lack of sleep/rest (parent)","Lack of sleep/bad night's rest",2,1,1
+"42","Lack of sleep/rest (parent)","Children waking parent up at night",2,1,1
+"43","Lack of sleep/rest (parent)","Children waking parent up at night (implied)",2,1,1
+"44","Rest (child)","Child(ren) rested/slept",2,1,1
+"45","Energy (child)","Child(ren) had high energy",2,1,1
+"46","Emotion (negative)","Frustrated",2,1,1
+"47","Emotion (negative)","Guilt",2,1,1
+"48","Emotion (negative)","Emotional pain/hurt (not further specified)",2,1,1
+"49","Emotion (negative)","Angry with self",2,1,1
+"50","Emotion (negative)","Regretful",2,1,1
+"51","Emotion (negative)","Afraid",2,1,1
+"52","Emotion (negative)","Sad",2,1,1
+"53","Emotion (negative)","Frustrated (implicit)",2,1,1
+"54","Emotion (negative)","Regretful (implied)",2,1,1
+"55","Emotion (negative)","Angry with self (implied)",2,1,1
+"56","Emotion (negative)","Angry with child(ren) (implicit)",2,1,1
+"57","Emotion (negative)","Hopelessness",2,1,1
+"58","Emotion (negative)","Grief (implicit)",2,1,1
+"59","Emotion (negative)","Angry with child(ren)",2,1,1
+"60","Emotion (positive)","Self-compassion",2,1,1
+"61","Emotion (positive)","Peace of mind",2,1,1
+"62","Emotion (positive)","Joy",2,1,1
+"63","Emotion (positive)","Pride",2,1,1
+"64","Emotion (positive)","Hope",2,1,1
+"65","Emotion (positive)","Relief",2,1,1
+"66","Emotion (positive)","Joy (implied)",2,1,1
+"67","Emotion (positive)","Pride (implied)",2,1,1
+"68","Overwhelmed","Wanting to abandon parenting",2,1,1
+"69","Overwhelmed","At the end of one's patience/strength",2,1,1
+"70","Overwhelmed","Overwhelmed (implicit)",2,1,1
 "71","Overwhelmed","Overwhelmed",2,1,8
-"72","Feeling need for rest/resourcing","Overwhelmed",2,1,1
-"73","Hopelessness","Overwhelmed",2,1,1
-"74","Feeling like abandoned child(ren)","Overwhelmed",2,1,1
-"75","Detachment","Overwhelmed",2,1,1
-"76","Confident about parenting/future outlook","Future-oriented feelings (positive)",2,1,1
-"77","Anticipating future good/fun events","Future-oriented feelings (positive)",2,1,1
-"78","It will pass","Future-oriented feelings (positive)",2,1,1
-"79","Worrying about child(ren) - implicit","Future-oriented feelings (worry; negative)",2,1,1
-"80","Worrying about raising child(ren) alone","Future-oriented feelings (worry; negative)",2,1,1
-"81","Apprehensive/worrying about the future","Future-oriented feelings (worry; negative)",2,1,1
-"82","Worrying about child(ren)","Future-oriented feelings (worry; negative)",2,1,1
-"83","Panic attack","Anxiety",2,1,1
-"84","At the end of one's patience/strength","Patience (Lacking)",2,1,1
-"85","Lacking patience","Patience (Lacking)",2,1,1
-"86","Stressed","Stress",2,1,1
-"87","Mental load","Stress",2,1,1
-"88","Stress (from work/not immediate family)","Stress",2,1,1
-"89","Accumulation","Stress",2,1,1
-"90","Anxious","Anxiety",2,1,1
-"91","Feeling isolated/alienated","Feeling (negative)",2,1,1
-"92","Detachment","Feeling (negative)",2,1,1
-"93","Irritable","Feeling (negative)",2,1,1
-"94","Crying/wanting to cry","Feeling (negative)",2,1,1
-"95","Good day (explicit)","Evaluation (good times)",2,1,1
-"96","Good day (implicit)","Evaluation (good times)",2,1,1
-"97","Great day (explicit)","Evaluation (good times)",2,1,1
-"98","Good moments (explicit)","Evaluation (good times)",2,1,1
-"99","Difficult day (explicit)","Evaluations (bad times)",2,1,1
-"100","Difficult day (implicit)","Evaluations (bad times)",2,1,1
-"101","Difficult moments (explicit)","Evaluations (bad times)",2,1,1
-"102","Calm day (explicit)","Evaluations (pace of day)",2,1,1
-"103","Calm day (implicit)","Evaluations (pace of day)",2,1,1
-"104","Busy day","Evaluations (pace of day)",2,1,1
-"105","Productive day","Evaluations (pace of day)",2,1,1
-"106","Busy day (implicit)","Evaluations (pace of day)",2,1,1
-"107","Child(ren) sick","Sickness",2,1,1
-"108","Self sick","Sickness",2,1,1
-"109","Partner sick","Sickness",2,1,1
-"110","Transition time for self","Shifting rhythms",2,1,1
-"111","Transition time for child(ren)","Shifting rhythms",2,1,1
-"112","Household rhythm shifting","Shifting rhythms",2,1,1
-"113","Transition time for partner","Shifting rhythms",2,1,1
-"114","Changing (parenting) principles","Shifting rhythms",2,1,1
-"115","Medical procedure/visit for child(ren)","Medical/therapist visit",2,1,1
-"116","Medical procedure/visit for self","Medical/therapist visit",2,1,1
-"117","Therapy session (for self; family; or child)","Medical/therapist visit",2,1,1
-"118","Medical procedure/visit for partner","Medical/therapist visit",2,1,1
-"119","Medical office/hospital [SETTING]","Medical/therapist visit",2,1,1
-"120","Psychological office [SETTING]","Medical/therapist visit",2,1,1
-"121","Good weather","Context (weather)",2,1,1
-"122","Bad weather","Context (weather)",2,1,1
-"123","Medication for self","Context (neutral)",2,1,1
-"124","Symptoms/etc linked with pregnancy","Context (neutral)",2,1,1
-"125","Work/school (self) [SETTING]","Setting",2,1,1
-"126","Missing/took off work/school [SETTING]","Setting",2,1,1
-"127","Teleworking","Setting",2,1,1
-"128","Holiday (time off work) [SETTING]","Setting",2,1,1
-"129","Medical office/hospital [SETTING]","Setting",2,1,1
-"130","Psychological office [SETTING]","Setting",2,1,1
-"131","Time in nature/outside [SETTING]","Setting",2,1,1
-"132","School/daycare [SETTING]","Setting",2,1,1
-"133","Work/school (partner) [SETTING]","Setting",2,1,1
-"134","Home (explicit) [SETTING]","Setting",2,1,1
-"135","Home (implicit) [SETTING]","Setting",2,1,1
-"136","Received help (unspecified)","Support",2,1,1
-"137","Help from family/friends","Support",2,1,1
-"138","Single parenting & resultant lack of resources/support","Lacking support",2,1,1
-"139","No help from others","Lacking support",2,1,1
-"140","Feeling isolated/alienated","Lacking support",2,1,1
-"141","Social sharing","Support (social/emotional)",2,1,1
-"142","Lack of financial resources","Lacking resources",2,1,1
-"143","Conflict with child(ren)","Parent-child interaction (negative)",2,1,1
-"144","Difficulty communicating with child(ren)","Parent-child interaction (negative)",2,1,1
-"145","Avoiding conflict with child(ren)","Parent-child interaction (negative)",2,1,1
-"146","Conflict with child(ren) (implicit)","Parent-child interaction (negative)",2,1,1
-"147","Long-standing/regular conflict","Parent-child interaction (negative)",2,1,1
-"148","Physical violence toward child(ren)","Parent-child interaction (negative)",2,1,1
-"149","Child(ren) crying/complaining","Child's behavior (perceived negatively)",2,1,1
-"150","Conflicts between siblings","Child's behavior (perceived negatively)",2,1,1
-"151","Child misbehaving (betises/etc)","Child's behavior (perceived negatively)",2,1,1
-"152","Child agitated/overwhelmed","Child's behavior (perceived negatively)",2,1,1
-"153","Conflicts between siblings (implied)","Child's behavior (perceived negatively)",2,1,1
-"154","Child had tantrum","Child's behavior (perceived negatively)",2,1,1
-"155","Difficulty managing children (implied)","Parenting (difficulties)",2,1,1
-"156","Difficulty managing children","Parenting (difficulties)",2,1,1
-"157","Not understanding child(ren)'s behavior/actions","Parenting (difficulties)",2,1,1
-"158","Children played on their own/entertained themselves","Child's behavior (perceived positively)",2,1,1
-"159","Child(ren) helped with chores/household tasks","Child's behavior (perceived positively)",2,1,1
-"160","Child(ren) behaving well/in good spirits","Child's behavior (perceived positively)",2,1,1
-"161","Children played with friends/with other children","Child's behavior (perceived positively)",2,1,1
-"162","Child(ren) having a difficult time emotionally","Reflecting on children's behavior",2,1,1
-"163","Not understanding child(ren)'s behavior/actions","Reflecting on children's behavior",2,1,1
-"164","Helping child(ren) manage emotions/feelings","Parenting (emotion-related)",2,1,1
-"165","Played with child(ren)/quality time with children","Parent-child interaction (positive)",2,1,1
-"166","Putting in effort to make child(ren)'s day good (implied)","Parenting (striving)",2,1,1
-"167","Putting in effort to make child(ren)'s day good ","Parenting (striving)",2,1,1
-"168","Wanting everything perfect","Parenting (striving)",2,1,1
-"169","Difficulty finding meaning in life","Identity",2,1,1
-"170","Lack of agency (implied)","Identity (parental)",2,1,1
-"171","Not able to be parent want to be","Identity (parental)",2,1,1
-"172","Feeling like abandoned child(ren)","Identity (parental)",2,1,1
-"173","It will pass","Reflecting/processing",2,1,1
-"174","Difficulty accepting/managing own emotions","Reflecting/processing",2,1,1
-"175","Partner cleaned/did household tasks","Division of childcare tasks",2,1,1
-"176","Childcare/household tasks mainly managed by others (not partner - extended family or babysitter)","Division of childcare tasks",2,1,1
-"177","Support from partner (explicit mention)","Division of childcare tasks",2,1,1
-"178","Supporting partner with childcare tasks","Division of childcare tasks",2,1,1
-"179","Partner did LESS childcare/household tasks than usual today","Division of childcare tasks",2,1,1
-"180","Partner did MORE childcare/household tasks than usual today","Division of childcare tasks",2,1,1
-"181","Childcare/household tasks performed mainly by self","Division of childcare tasks",2,1,1
-"182","Discussion on division of coparenting tasks","Division of childcare tasks",2,1,1
-"183","Childcare/household tasks mainly managed by partner (implied)","Division of childcare tasks",2,1,1
-"184","Childcare/household tasks mainly managed by partner","Division of childcare tasks",2,1,1
-"185","Household tasks/chores/cleaning ","Household/childcare task",2,1,1
-"186","Postponing household tasks/general procrastination","Household/childcare task",2,1,1
-"187","Transporting child(ren) from one place to another","Household/childcare task",2,1,1
-"188","Nursing or bottle-feeding","Household/childcare task",2,1,1
-"189","Pumping milk","Household/childcare task",2,1,1
-"190","Household tasks/chores/cleaning","Household/childcare task",2,1,1
-"191","Mealtime","Household/childcare task",2,1,1
-"192","Conflict with partner","Interaction with partner (negative)",2,1,1
-"193","Tension with partner","Interaction with partner (negative)",2,1,1
-"194","Quality time with partner ","Interaction with partner (positive)",2,1,1
-"195","Getting along better/well with partner (or less conflicts than previously)","Interaction with partner (positive)",2,1,1
-"196","Activity","Activity/event",3,2,9
-"197","Context (negative, self)","Context",3,2,1
-"198","Context (negative, interactional)","Context",3,2,4
-"199","Context (negative, outside)","Context",3,2,2
-"200","Movement of family member","Movements (day)",3,2,6
-"201","Time with children","Time",3,2,6
-"202","Time with partner","Time",3,2,2
-"203","Time (general)","Time",3,2,1
-"204","Tiredness (parent)","Tiredness/rest",3,2,5
-"205","Rest (parent)","Tiredness/rest",3,2,2
-"206","Tiredness (child)","Tiredness/rest",3,2,1
-"207","Need for rest (parent)","Tiredness/rest",3,2,1
-"208","Lack of sleep/rest (parent)","Tiredness/rest",3,2,3
-"209","Rest (child)","Tiredness/rest",3,2,1
-"210","Energy (child)","Tiredness/rest",3,2,1
-"211","Emotion (negative)","Feelings",3,2,14
-"212","Emotion (positive)","Feelings",3,2,8
-"213","Overwhelmed","Feelings",3,2,8
-"214","Future-oriented feelings (positive)","Feelings",3,2,3
-"215","Future-oriented feelings (worry; negative)","Feelings",3,2,4
-"216","Anxiety","Feelings",3,2,2
-"217","Patience (Lacking)","Feelings",3,2,2
-"218","Stress","Feelings",3,2,4
-"219","Stress","Context",3,2,4
-"220","Feeling (negative)","Feelings",3,2,4
-"221","Evaluation (good times)","Evaluations",3,2,4
-"222","Evaluations (bad times)","Evaluations",3,2,3
-"223","Evaluations (pace of day)","Evaluations",3,2,5
-"224","Sickness","Context",3,2,3
-"225","Shifting rhythms","Context",3,2,5
-"226","Medical/therapist visit","Context",3,2,6
-"227","Context (weather)","Context",3,2,2
-"228","Context (neutral)","Context",3,2,2
-"229","Setting","Context",3,2,11
-"230","Support","Resources",3,2,2
-"231","Lacking support","Resources",3,2,3
-"232","Support (social/emotional)","Resources",3,2,1
-"233","Lacking resources","Resources",3,2,1
-"234","Parent-child interaction (negative)","Parenting & parent-child",3,2,6
-"235","Child's behavior (perceived negatively)","Parenting & parent-child",3,2,6
-"236","Parenting (difficulties)","Parenting & parent-child",3,2,3
-"237","Child's behavior (perceived positively)","Parenting & parent-child",3,2,4
-"238","Reflecting on children's behavior","Parenting & parent-child",3,2,2
-"239","Parenting (emotion-related)","Parenting & parent-child",3,2,1
-"240","Parent-child interaction (positive)","Parenting & parent-child",3,2,1
-"241","Parenting (striving)","Parenting & parent-child",3,2,3
-"242","Identity","Identity & reflection",3,2,1
-"243","Identity (parental)","Identity & reflection",3,2,3
-"244","Reflecting/processing","Identity & reflection",3,2,2
-"245","Division of childcare tasks","Childcare & household",3,2,10
-"246","Household/childcare task","Childcare & household",3,2,7
-"247","Interaction with partner (negative)","Partner-specific",3,2,2
-"248","Interaction with partner (positive)","Partner-specific",3,2,2
+"72","Overwhelmed","Feeling need for rest/resourcing",2,1,1
+"73","Overwhelmed","Hopelessness",2,1,1
+"74","Overwhelmed","Feeling like abandoned child(ren)",2,1,1
+"75","Overwhelmed","Detachment",2,1,1
+"76","Future-oriented feelings (positive)","Confident about parenting/future outlook",2,1,1
+"77","Future-oriented feelings (positive)","Anticipating future good/fun events",2,1,1
+"78","Future-oriented feelings (positive)","It will pass",2,1,1
+"79","Future-oriented feelings (worry; negative)","Worrying about child(ren) - implicit",2,1,1
+"80","Future-oriented feelings (worry; negative)","Worrying about raising child(ren) alone",2,1,1
+"81","Future-oriented feelings (worry; negative)","Apprehensive/worrying about the future",2,1,1
+"82","Future-oriented feelings (worry; negative)","Worrying about child(ren)",2,1,1
+"83","Anxiety","Panic attack",2,1,1
+"84","Patience (Lacking)","At the end of one's patience/strength",2,1,1
+"85","Patience (Lacking)","Lacking patience",2,1,1
+"86","Stress","Stressed",2,1,1
+"87","Stress","Mental load",2,1,1
+"88","Stress","Stress (from work/not immediate family)",2,1,1
+"89","Stress","Accumulation",2,1,1
+"90","Anxiety","Anxious",2,1,1
+"91","Feeling (negative)","Feeling isolated/alienated",2,1,1
+"92","Feeling (negative)","Detachment",2,1,1
+"93","Feeling (negative)","Irritable",2,1,1
+"94","Feeling (negative)","Crying/wanting to cry",2,1,1
+"95","Evaluation (good times)","Good day (explicit)",2,1,1
+"96","Evaluation (good times)","Good day (implicit)",2,1,1
+"97","Evaluation (good times)","Great day (explicit)",2,1,1
+"98","Evaluation (good times)","Good moments (explicit)",2,1,1
+"99","Evaluations (bad times)","Difficult day (explicit)",2,1,1
+"100","Evaluations (bad times)","Difficult day (implicit)",2,1,1
+"101","Evaluations (bad times)","Difficult moments (explicit)",2,1,1
+"102","Evaluations (pace of day)","Calm day (explicit)",2,1,1
+"103","Evaluations (pace of day)","Calm day (implicit)",2,1,1
+"104","Evaluations (pace of day)","Busy day",2,1,1
+"105","Evaluations (pace of day)","Productive day",2,1,1
+"106","Evaluations (pace of day)","Busy day (implicit)",2,1,1
+"107","Sickness","Child(ren) sick",2,1,1
+"108","Sickness","Self sick",2,1,1
+"109","Sickness","Partner sick",2,1,1
+"110","Shifting rhythms","Transition time for self",2,1,1
+"111","Shifting rhythms","Transition time for child(ren)",2,1,1
+"112","Shifting rhythms","Household rhythm shifting",2,1,1
+"113","Shifting rhythms","Transition time for partner",2,1,1
+"114","Shifting rhythms","Changing (parenting) principles",2,1,1
+"115","Medical/therapist visit","Medical procedure/visit for child(ren)",2,1,1
+"116","Medical/therapist visit","Medical procedure/visit for self",2,1,1
+"117","Medical/therapist visit","Therapy session (for self; family; or child)",2,1,1
+"118","Medical/therapist visit","Medical procedure/visit for partner",2,1,1
+"119","Medical/therapist visit","Medical office/hospital [SETTING]",2,1,1
+"120","Medical/therapist visit","Psychological office [SETTING]",2,1,1
+"121","Context (weather)","Good weather",2,1,1
+"122","Context (weather)","Bad weather",2,1,1
+"123","Context (neutral)","Medication for self",2,1,1
+"124","Context (neutral)","Symptoms/etc linked with pregnancy",2,1,1
+"125","Setting","Work/school (self) [SETTING]",2,1,1
+"126","Setting","Missing/took off work/school [SETTING]",2,1,1
+"127","Setting","Teleworking",2,1,1
+"128","Setting","Holiday (time off work) [SETTING]",2,1,1
+"129","Setting","Medical office/hospital [SETTING]",2,1,1
+"130","Setting","Psychological office [SETTING]",2,1,1
+"131","Setting","Time in nature/outside [SETTING]",2,1,1
+"132","Setting","School/daycare [SETTING]",2,1,1
+"133","Setting","Work/school (partner) [SETTING]",2,1,1
+"134","Setting","Home (explicit) [SETTING]",2,1,1
+"135","Setting","Home (implicit) [SETTING]",2,1,1
+"136","Support","Received help (unspecified)",2,1,1
+"137","Support","Help from family/friends",2,1,1
+"138","Lacking support","Single parenting & resultant lack of resources/support",2,1,1
+"139","Lacking support","No help from others",2,1,1
+"140","Lacking support","Feeling isolated/alienated",2,1,1
+"141","Support (social/emotional)","Social sharing",2,1,1
+"142","Lacking resources","Lack of financial resources",2,1,1
+"143","Parent-child interaction (negative)","Conflict with child(ren)",2,1,1
+"144","Parent-child interaction (negative)","Difficulty communicating with child(ren)",2,1,1
+"145","Parent-child interaction (negative)","Avoiding conflict with child(ren)",2,1,1
+"146","Parent-child interaction (negative)","Conflict with child(ren) (implicit)",2,1,1
+"147","Parent-child interaction (negative)","Long-standing/regular conflict",2,1,1
+"148","Parent-child interaction (negative)","Physical violence toward child(ren)",2,1,1
+"149","Child's behavior (perceived negatively)","Child(ren) crying/complaining",2,1,1
+"150","Child's behavior (perceived negatively)","Conflicts between siblings",2,1,1
+"151","Child's behavior (perceived negatively)","Child misbehaving (betises/etc)",2,1,1
+"152","Child's behavior (perceived negatively)","Child agitated/overwhelmed",2,1,1
+"153","Child's behavior (perceived negatively)","Conflicts between siblings (implied)",2,1,1
+"154","Child's behavior (perceived negatively)","Child had tantrum",2,1,1
+"155","Parenting (difficulties)","Difficulty managing children (implied)",2,1,1
+"156","Parenting (difficulties)","Difficulty managing children",2,1,1
+"157","Parenting (difficulties)","Not understanding child(ren)'s behavior/actions",2,1,1
+"158","Child's behavior (perceived positively)","Children played on their own/entertained themselves",2,1,1
+"159","Child's behavior (perceived positively)","Child(ren) helped with chores/household tasks",2,1,1
+"160","Child's behavior (perceived positively)","Child(ren) behaving well/in good spirits",2,1,1
+"161","Child's behavior (perceived positively)","Children played with friends/with other children",2,1,1
+"162","Reflecting on children's behavior","Child(ren) having a difficult time emotionally",2,1,1
+"163","Reflecting on children's behavior","Not understanding child(ren)'s behavior/actions",2,1,1
+"164","Parenting (emotion-related)","Helping child(ren) manage emotions/feelings",2,1,1
+"165","Parent-child interaction (positive)","Played with child(ren)/quality time with children",2,1,1
+"166","Parenting (striving)","Putting in effort to make child(ren)'s day good (implied)",2,1,1
+"167","Parenting (striving)","Putting in effort to make child(ren)'s day good ",2,1,1
+"168","Parenting (striving)","Wanting everything perfect",2,1,1
+"169","Identity","Difficulty finding meaning in life",2,1,1
+"170","Identity (parental)","Lack of agency (implied)",2,1,1
+"171","Identity (parental)","Not able to be parent want to be",2,1,1
+"172","Identity (parental)","Feeling like abandoned child(ren)",2,1,1
+"173","Reflecting/processing","It will pass",2,1,1
+"174","Reflecting/processing","Difficulty accepting/managing own emotions",2,1,1
+"175","Division of childcare tasks","Partner cleaned/did household tasks",2,1,1
+"176","Division of childcare tasks","Childcare/household tasks mainly managed by others (not partner - extended family or babysitter)",2,1,1
+"177","Division of childcare tasks","Support from partner (explicit mention)",2,1,1
+"178","Division of childcare tasks","Supporting partner with childcare tasks",2,1,1
+"179","Division of childcare tasks","Partner did LESS childcare/household tasks than usual today",2,1,1
+"180","Division of childcare tasks","Partner did MORE childcare/household tasks than usual today",2,1,1
+"181","Division of childcare tasks","Childcare/household tasks performed mainly by self",2,1,1
+"182","Division of childcare tasks","Discussion on division of coparenting tasks",2,1,1
+"183","Division of childcare tasks","Childcare/household tasks mainly managed by partner (implied)",2,1,1
+"184","Division of childcare tasks","Childcare/household tasks mainly managed by partner",2,1,1
+"185","Household/childcare task","Household tasks/chores/cleaning ",2,1,1
+"186","Household/childcare task","Postponing household tasks/general procrastination",2,1,1
+"187","Household/childcare task","Transporting child(ren) from one place to another",2,1,1
+"188","Household/childcare task","Nursing or bottle-feeding",2,1,1
+"189","Household/childcare task","Pumping milk",2,1,1
+"190","Household/childcare task","Household tasks/chores/cleaning",2,1,1
+"191","Household/childcare task","Mealtime",2,1,1
+"192","Interaction with partner (negative)","Conflict with partner",2,1,1
+"193","Interaction with partner (negative)","Tension with partner",2,1,1
+"194","Interaction with partner (positive)","Quality time with partner ",2,1,1
+"195","Interaction with partner (positive)","Getting along better/well with partner (or less conflicts than previously)",2,1,1
+"196","Activity/event","Activity",3,2,9
+"197","Context","Context (negative, self)",3,2,1
+"198","Context","Context (negative, interactional)",3,2,4
+"199","Context","Context (negative, outside)",3,2,2
+"200","Movements (day)","Movement of family member",3,2,6
+"201","Time","Time with children",3,2,6
+"202","Time","Time with partner",3,2,2
+"203","Time","Time (general)",3,2,1
+"204","Tiredness/rest","Tiredness (parent)",3,2,5
+"205","Tiredness/rest","Rest (parent)",3,2,2
+"206","Tiredness/rest","Tiredness (child)",3,2,1
+"207","Tiredness/rest","Need for rest (parent)",3,2,1
+"208","Tiredness/rest","Lack of sleep/rest (parent)",3,2,3
+"209","Tiredness/rest","Rest (child)",3,2,1
+"210","Tiredness/rest","Energy (child)",3,2,1
+"211","Feelings","Emotion (negative)",3,2,14
+"212","Feelings","Emotion (positive)",3,2,8
+"213","Feelings","Overwhelmed",3,2,8
+"214","Feelings","Future-oriented feelings (positive)",3,2,3
+"215","Feelings","Future-oriented feelings (worry; negative)",3,2,4
+"216","Feelings","Anxiety",3,2,2
+"217","Feelings","Patience (Lacking)",3,2,2
+"218","Feelings","Stress",3,2,4
+"219","Context","Stress",3,2,4
+"220","Feelings","Feeling (negative)",3,2,4
+"221","Evaluations","Evaluation (good times)",3,2,4
+"222","Evaluations","Evaluations (bad times)",3,2,3
+"223","Evaluations","Evaluations (pace of day)",3,2,5
+"224","Context","Sickness",3,2,3
+"225","Context","Shifting rhythms",3,2,5
+"226","Context","Medical/therapist visit",3,2,6
+"227","Context","Context (weather)",3,2,2
+"228","Context","Context (neutral)",3,2,2
+"229","Context","Setting",3,2,11
+"230","Resources","Support",3,2,2
+"231","Resources","Lacking support",3,2,3
+"232","Resources","Support (social/emotional)",3,2,1
+"233","Resources","Lacking resources",3,2,1
+"234","Parenting & parent-child","Parent-child interaction (negative)",3,2,6
+"235","Parenting & parent-child","Child's behavior (perceived negatively)",3,2,6
+"236","Parenting & parent-child","Parenting (difficulties)",3,2,3
+"237","Parenting & parent-child","Child's behavior (perceived positively)",3,2,4
+"238","Parenting & parent-child","Reflecting on children's behavior",3,2,2
+"239","Parenting & parent-child","Parenting (emotion-related)",3,2,1
+"240","Parenting & parent-child","Parent-child interaction (positive)",3,2,1
+"241","Parenting & parent-child","Parenting (striving)",3,2,3
+"242","Identity & reflection","Identity",3,2,1
+"243","Identity & reflection","Identity (parental)",3,2,3
+"244","Identity & reflection","Reflecting/processing",3,2,2
+"245","Childcare & household","Division of childcare tasks",3,2,10
+"246","Childcare & household","Household/childcare task",3,2,7
+"247","Partner-specific","Interaction with partner (negative)",3,2,2
+"248","Partner-specific","Interaction with partner (positive)",3,2,2
