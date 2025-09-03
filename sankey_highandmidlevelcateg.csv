@@ -1,0 +1,35 @@
+"","X","source","target","level_source","level_target","value"
+"1",1,"Activity/event","Activity",3,2,7
+"2",2,"Childcare & household","Division of childcare tasks",3,2,4
+"3",3,"Childcare & household","Household/childcare task",3,2,2
+"4",4,"Context","Context (negative, interactional)",3,2,1
+"5",5,"Context","Context (weather)",3,2,1
+"6",6,"Context","Medical/therapist visit",3,2,1
+"7",7,"Context","Setting",3,2,3
+"8",8,"Context","Shifting rhythms",3,2,3
+"9",9,"Context","Sickness",3,2,3
+"10",10,"Context","Stress",3,2,4
+"11",11,"Evaluations","Evaluation (good times)",3,2,3
+"12",12,"Evaluations","Evaluations (bad times)",3,2,3
+"13",13,"Evaluations","Evaluations (pace of day)",3,2,2
+"14",14,"Feelings","Emotion (negative)",3,2,4
+"15",15,"Feelings","Future-oriented feelings (worry; negative)",3,2,2
+"16",16,"Feelings","Overwhelmed",3,2,1
+"17",17,"Feelings","Patience (Lacking)",3,2,1
+"18",18,"Feelings","Tiredness (parent)",3,2,2
+"19",19,"Movements (day)","Movement of family member",3,2,5
+"20",20,"Parenting & parent-child","Child's behavior (perceived negatively)",3,2,3
+"21",21,"Parenting & parent-child","Child's behavior (perceived positively)",3,2,2
+"22",22,"Parenting & parent-child","Parent-child interaction (negative)",3,2,1
+"23",23,"Parenting & parent-child","Parent-child interaction (positive)",3,2,1
+"24",24,"Parenting & parent-child","Parenting (difficulties)",3,2,2
+"25",25,"Parenting & parent-child","Reflecting on children's behavior",3,2,1
+"26",26,"Partner-specific","Interaction with partner (negative)",3,2,1
+"27",27,"Partner-specific","Time with partner",3,2,2
+"28",28,"Resources","Support",3,2,1
+"29",29,"Time","Time (general)",3,2,1
+"30",30,"Time","Time with children",3,2,4
+"31",31,"Tiredness/rest","Lack of sleep/rest (parent)",3,2,3
+"32",32,"Tiredness/rest","Rest (child)",3,2,1
+"33",33,"Tiredness/rest","Rest (parent)",3,2,2
+"34",34,"Tiredness/rest","Tiredness (child)",3,2,1
