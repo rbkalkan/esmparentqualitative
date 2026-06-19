@@ -1,0 +1,54 @@
+"","X","source","target","level_source","level_target","value"
+"1",1,"Activity/event","Activity",3,2,9
+"2",2,"Context","Context (negative, self)",3,2,1
+"3",3,"Context","Context (negative, interactional)",3,2,4
+"4",4,"Context","Context (negative, outside)",3,2,2
+"5",5,"Movements (day)","Movement of family member",3,2,6
+"6",6,"Time","Time with children",3,2,6
+"7",7,"Time","Time with partner",3,2,2
+"8",8,"Time","Time (general)",3,2,1
+"9",9,"Tiredness/rest","Tiredness (parent)",3,2,5
+"10",10,"Tiredness/rest","Rest (parent)",3,2,2
+"11",11,"Tiredness/rest","Tiredness (child)",3,2,1
+"12",12,"Tiredness/rest","Need for rest (parent)",3,2,1
+"13",13,"Tiredness/rest","Lack of sleep/rest (parent)",3,2,3
+"14",14,"Tiredness/rest","Rest (child)",3,2,1
+"15",15,"Tiredness/rest","Energy (child)",3,2,1
+"16",16,"Feelings","Emotion (negative)",3,2,14
+"17",17,"Feelings","Emotion (positive)",3,2,8
+"18",18,"Feelings","Overwhelmed",3,2,8
+"19",19,"Feelings","Future-oriented feelings (positive)",3,2,3
+"20",20,"Feelings","Future-oriented feelings (worry; negative)",3,2,4
+"21",21,"Feelings","Anxiety",3,2,2
+"22",22,"Feelings","Patience (Lacking)",3,2,2
+"23",23,"Feelings","Stress",3,2,4
+"24",24,"Context","Stress",3,2,4
+"25",25,"Feelings","Feeling (negative)",3,2,4
+"26",26,"Evaluations","Evaluation (good times)",3,2,4
+"27",27,"Evaluations","Evaluations (bad times)",3,2,3
+"28",28,"Evaluations","Evaluations (pace of day)",3,2,5
+"29",29,"Context","Sickness",3,2,3
+"30",30,"Context","Shifting rhythms",3,2,5
+"31",31,"Context","Medical/therapist visit",3,2,6
+"32",32,"Context","Context (weather)",3,2,2
+"33",33,"Context","Context (neutral)",3,2,2
+"34",34,"Context","Setting",3,2,11
+"35",35,"Resources","Support",3,2,2
+"36",36,"Resources","Lacking support",3,2,3
+"37",37,"Resources","Support (social/emotional)",3,2,1
+"38",38,"Resources","Lacking resources",3,2,1
+"39",39,"Parenting & parent-child","Parent-child interaction (negative)",3,2,6
+"40",40,"Parenting & parent-child","Child's behavior (perceived negatively)",3,2,6
+"41",41,"Parenting & parent-child","Parenting (difficulties)",3,2,3
+"42",42,"Parenting & parent-child","Child's behavior (perceived positively)",3,2,4
+"43",43,"Parenting & parent-child","Reflecting on children's behavior",3,2,2
+"44",44,"Parenting & parent-child","Parenting (emotion-related)",3,2,1
+"45",45,"Parenting & parent-child","Parent-child interaction (positive)",3,2,1
+"46",46,"Parenting & parent-child","Parenting (striving)",3,2,3
+"47",47,"Identity & reflection","Identity",3,2,1
+"48",48,"Identity & reflection","Identity (parental)",3,2,3
+"49",49,"Identity & reflection","Reflecting/processing",3,2,2
+"50",50,"Childcare & household","Division of childcare tasks",3,2,10
+"51",51,"Childcare & household","Household/childcare task",3,2,7
+"52",52,"Partner-specific","Interaction with partner (negative)",3,2,2
+"53",53,"Partner-specific","Interaction with partner (positive)",3,2,2
